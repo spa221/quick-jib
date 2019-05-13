@@ -44,16 +44,16 @@
                     <from>
                         <image>openjdk:8-jre-alpine</image>
                         <auth>
-                            <username>shanpingan</username>
-                            <password>8132117spa</password>
+                            <username>*****</username>
+                            <password>*****</password>
                         </auth>
 
                     </from>
                     <to>
                         <image>docker.io/shanpingan/testjib111</image>
                         <auth>
-                            <username>shanpingan</username>
-                            <password>8132117spa</password>
+                            <username>*****</username>
+                            <password>******</password>
                         </auth>
                     </to>
                 </configuration>
